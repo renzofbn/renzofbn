@@ -46,7 +46,7 @@
 
 <h2></h2><br>
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz0fbn&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" alt="My_Top_Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzofbn&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" alt="My_Top_Languages"/>
     <br><br>
     <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>But I personally use JavaScript and Python the most.
     </p>
