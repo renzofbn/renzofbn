@@ -4,7 +4,7 @@
     <b>
         Hello friend.
     <br>
-         I'm renz0fbn, a web developer and artificial intelligence student. 
+         I'm renz0fbn, a software developer and artificial intelligence student. 
     </b>
     <br>
       <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&duration=5500&color=44D7D3&center=true&width=500&lines=I'm+a+self-taught+guy+who+loves+learning.">
