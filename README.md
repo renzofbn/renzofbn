@@ -20,9 +20,9 @@
 </p>
 
 
-<details align="center" open>
+<!-- <details align="center" open>
   <h2></h2>
-  <summary>🖥️</summary>
+  <summary>🖥️</summary> -->
 
 
 <!--Begin of Languages nd Tools -->
@@ -75,5 +75,5 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </details>
 <!--End of Languages nd Tools -->
-</details>
+<!-- </details> -->
 
