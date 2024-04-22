@@ -15,14 +15,12 @@
     </b>
   </samp>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=renzofbn&label=Profile%20views&color=grey&style=flat" alt="renzofbn" /> </p>
+  <p align="center"> 
+    <img 
+      src="https://komarev.com/ghpvc/?username=renzofbn&label=Profile%20views&color=grey&style=flat" alt="renzofbn" /> 
+  </p>
 
-</p>
-
-
-<!-- <details align="center" open>
-  <h2></h2>
-  <summary>🖥️</summary> -->
+  </p>
 
 
 <!--Begin of Languages nd Tools -->
@@ -33,36 +31,40 @@
 
   <h2></h2><br>
 
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img align="center" alt="Npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="PyPi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" />
-  <img align="center" alt="DiscordJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Digital" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
-  <img align="center" alt="GithubActions" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-  <img align="center" alt="Kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <img align="center" alt="AzureSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-  <img align="center" alt="cshare" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="ArchLinux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-  <img align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-  <img align="center" alt="Fedora" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
-  <img align="center" alt="Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img align="center" alt="Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+<p align="center">
+<img align="center" alt="JavaScript" height="40" width="40" src="https://skillicons.dev/icons?i=js" />
+  <img align="center" alt="Python" height="40" width="40" src="https://skillicons.dev/icons?i=py" />
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://skillicons.dev/icons?i=ts" />
+  <img align="center" alt="Node.js" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" />
+  <img align="center" alt="MongoDB" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb" />
+  <img align="center" alt="MySQL" height="40" width="40" src="https://skillicons.dev/icons?i=mysql" />
+  <img align="center" alt="Postgres" height="40" width="40" src="https://skillicons.dev/icons?i=postgres" />
+  <img align="center" alt="Nginx" height="40" width="40" src="https://skillicons.dev/icons?i=nginx" />
+  <img align="center" alt="Redis" height="40" width="40" src="https://skillicons.dev/icons?i=redis" />
+  <img align="center" alt="AWS" height="40" width="40" src="https://skillicons.dev/icons?i=aws" />
+  <img align="center" alt="Azure" height="40" width="40" src="https://skillicons.dev/icons?i=azure" />
+  <img align="center" alt="Linux" height="40" width="40" src="https://skillicons.dev/icons?i=linux" />
+  <img align="center" alt="Express" height="40" width="40" src="https://skillicons.dev/icons?i=express" />
+  <img align="center" alt="Npm" height="40" width="40" src="https://skillicons.dev/icons?i=npm" />
+  <img align="center" alt="Next.js" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs" />
+  <img align="center" alt="React" height="40" width="40" src="https://skillicons.dev/icons?i=react" />
+  <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind" />
+  <img align="center" alt="Git" height="40" width="40" src="https://skillicons.dev/icons?i=git" />
+  <img align="center" alt="Kubernetes" height="40" width="40" src="https://skillicons.dev/icons?i=kubernetes" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
+  <img align="center" alt="Github Actions" height="40" width="40" src="https://skillicons.dev/icons?i=githubactions" />
+  <img align="center" alt="Postman" height="40" width="40" src="https://skillicons.dev/icons?i=postman" />
+  <img align="center" alt="Pnpm" height="40" width="40" src="https://skillicons.dev/icons?i=pnpm" />
+  <img align="center" alt="PHP" height="40" width="40" src="https://skillicons.dev/icons?i=php" />
+  <img align="center" alt="Bash" height="40" width="40" src="https://skillicons.dev/icons?i=bash" />
+  <img align="center" alt="C#" height="40" width="40" src="https://skillicons.dev/icons?i=cs" />
+  <img align="center" alt=".NET" height="40" width="40" src="https://skillicons.dev/icons?i=dotnet" />
+  <img align="center" alt="Discord.js" height="40" width="40" src="https://skillicons.dev/icons?i=discordjs" />
+  <img align="center" alt="Neovim" height="40" width="40" src="https://skillicons.dev/icons?i=neovim" />
+  <img align="center" alt="Arch" height="40" width="40" src="https://skillicons.dev/icons?i=arch" />
+  <img align="center" alt="Ubuntu" height="40" width="40" src="https://skillicons.dev/icons?i=ubuntu" />
+  <img align="center" alt="Debian" height="40" width="40" src="https://skillicons.dev/icons?i=debian" />
+</p>
 
   <br/><br/>
 
@@ -71,8 +73,11 @@
   <p>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>But I personally use JavaScript and Python the most.
   </p>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <p align="center">
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=js,python" />
+    </a>
+  </p>
   </details>
 <!--End of Languages nd Tools -->
 <!-- </details> -->
