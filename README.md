@@ -7,8 +7,6 @@
          I'm renzofbn, a software developer, I like whales, penguins, snakes and [] == ''
     </b>
     <br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=87F78A&center=true&random=false&width=435&lines=If+I+do+not+know+it%2C+I+learn+it." alt="Typing SVG" />
-    <br>
     <b>
       <a href="https://renzofbn.me" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
       <a href="mailto:renzofbn@tutanota.com" target="_blank"><img src="https://img.shields.io/badge/Email-840010?style=for-the-badge&logo=Tutanota&logoColor=white" target="_blank"></a>
@@ -16,8 +14,7 @@
   </samp>
 
   <p align="center"> 
-    <img 
-      src="https://komarev.com/ghpvc/?username=renzofbn&label=Profile%20views&color=grey&style=flat" alt="renzofbn" /> 
+    <img src="https://komarev.com/ghpvc/?username=renzofbn&style=for-the-badge">
   </p>
 
   </p>
@@ -71,7 +68,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzofbn&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" alt="My_Top_Languages"/>
   <br><br>
   <p>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>But I personally use JavaScript and Python the most.
+    Notice this is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>But I personally use JavaScript and Python the most.
   </p>
   <p align="center">
     <a href="#">
